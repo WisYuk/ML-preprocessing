@@ -1,0 +1,249 @@
+id,Name,City,Languages,Specialty,Harga(per-day),lat,long
+1,Didi,Bali,"Melayu, English, Indonesian, Msa","I am licensed travel guide, speak good English, Bahasa Indonesia and Malay. I have served thousands f visitor from various country, with an excellent reputation. The reason I am on this service field because I have the biggest passion in the tourism business.","400,000.00",-8.409518,115.188919
+2,Chryssan,Surabaya,"English, Indonesian","Hi✨ My name is Tania and Student of Communication in one of University in Surabaya. I really like traveling, finding and take a moment at nature gems, traditional foodies and historical places, culture and languages enthusiast.
+I can be your cheerfull tour guide in Surabaya and we can explore Surabaya and also Madura island together too 🙀💓","350,000.00",-7.257472,112.752088
+3,Ade Naufal,Makassar,"English, Indonesian","Hi! I'm Naufal, I'm a friendly person, fun, I loved to traveling, try local food, and meet new people. Let's explore Makassar with me and I'll bring you to the authentic place in Makassar City","500,000.00",-5.147665,119.432731
+4,Antonius,Jakarta,"English, Indonesian","Hello,I'm Anton,I grew up in this city ,I had already graduated From Indonesia Christian University in JAKARTA ,majoring English literature in 2005.According to our Archipelago island, Indonesia had many historical and cultures.","450,000.00",-6.208763,106.845599
+5,Reza,Bali, English,Travel loving person that love to enjoy culinair and both movie & music enthusiast. Once working on a various hotels around Bali and now a Full time hospitality teacher and a rocket scientist 😁.,"300,000.00",-8.408518,115.172
+6,Gede Nopi,Bali,"English, Indonesian","My name is Gede Nopi. I graduated from the Tourism Faculty of Udayana University in Bali, and since 2011 I have worked as a driver and guide in Bali.","450,000.00",-8.407518,115.178904
+7,made yoga,Bali,"Melayu, English, Msa, Indonesian, 日本語","Dear value guest, introducing my name is made yoga, i am a local who born in a countryside in bali, i am a tour driver in bali with 2 different specialist language spoken,English and japanese.","300,000.00",-8.410518,115.180871
+8,I Made,Bali,"English, Deutsch, Indonesian",German and English speaking Tours Guide,"400,000.00",-8.409018,115.190333
+9,Emir,Jakarta,"English, Indonesian","I live in Jakarta for over than 30 years, I love to make a new friends from all over the world and I have a lot of culinary preferences that I would love to share. I also know a lot of entertainment preference, bars and club for your experience. I can make sure your visit to Indonesia will be unforgettable and being your fun experience.","500,000.00",-6.218763,106.85576
+10,Agung,Bali,"Melayu, English, Msa, Indonesian","I was born in eastern part of Bali , grown up in west coast of Bali and now settled in south part of Bali . These gave me more knowledge about different part of the island . I work in the tourism industry for the last 20 years ranging from restaurant , hotel and cruise lines . Working in the international environment broaden my perspective and improved my understanding of clients expectations is service industry","250,000.00",-8.670458,115.212629
+11,Erna,Yogyakarta,"English, Indonesian","I was born, raised and still live in Yogyakarta. Therefore, I can tell you a lot about this beautiful city. I am a guide, public relations at collage and yoga instructor, very adventurous person and I like music, movies, travelling and starting adventures with new friends!","300,000.00",-7.797068,110.370529
+12,Ahmad Rizky,Palembang,"English, Indonesian",Experienced guide with a passion for South Sumatra's culture,"350,000.00",-2.990934,104.756556
+13,Diah Ayu,Padang,"Indonesian, Minangkabau, English",Expert in West Sumatra's culinary and cultural heritage,"450,000.00",-0.947083,100.417181
+14,Budi Santoso,Samarinda,"Indonesian, English",Nature enthusiast with extensive knowledge of East Kalimantan,"350,000.00",-0.502106,117.153709
+15,Siti Nuraini,Banjarmasin,"Indonesian, Banjar, English",Waterways of South Kalimantan,"350,000.00",-3.316694,114.590111
+16,Arman Laode,Manado,"Indonesian, English, Manado Malay",Marine life and diving in North Sulawesi,"400,000.00",1.47483,124.842079
+17,Maya Kusuma,Yogyakarta,"Indonesian, Javanese, English",Historical sites of Yogyakarta,"500,000.00",-7.797068,110.370529
+18,Putu Widya,Denpasar,"Indonesian, Balinese, English",Balinese traditions and rituals,"300,000.00",-8.661458,115.2227
+19,Agus Wijaya,Medan,"Indonesian, Batak, English",Natural and cultural attractions of North Sumatra,"300,000.00",3.595196,98.672223
+20,Nurul Hidayat,Pontianak,"Indonesian, Malay, English",Equatorial line in West Kalimantan,"450,000.00",-0.02633,109.342503
+21,Rina Setiawati,Makassar,"Indonesian, Makassarese, English",History and heritage of South Sulawesi,"350,000.00",-5.147665,119.432731
+22,Hadi Pratama,Banda Aceh,"Indonesian, Acehnese, English",Historical and natural attractions of Aceh,"400,000.00",5.54829,95.323753
+23,Farida Hasan,Pekanbaru,"Indonesian, Malay, English",Cultural and historical attractions of Riau,"250,000.00",0.507068,101.447779
+24,Dian Purnama,Balikpapan,"Indonesian, English",Wildlife in East Kalimantan's rainforests,"300,000.00",-1.265386,116.831233
+25,Rahmat Hidayat,Palu,"Indonesian, Kaili, English",Natural beauty and culture of Central Sulawesi,"450,000.00",-0.898813,119.850334
+26,Tri Handoko,Semarang,"Indonesian, Javanese, English",Temples and history of Central Java,"500,000.00",-6.966667,110.416664
+27,Wayan Suryana,Bali,"Indonesian, Balinese, English",Art scene of Ubud,"400,000.00",-8.409518,115.188919
+28,Linda Susanti,Lampung,"Indonesian, Lampungese, English",Natural parks and wildlife of Lampung,"300,000.00",-5.449721,105.292773
+29,Rizal Fahmi,Balige,"Indonesian, Batak, English",Lake Toba and scenic spots of North Sumatra,"350,000.00",2.33149,99.06419
+30,Andi Syahrul,Gorontalo,"Indonesian, Gorontaloan, English",Diving and marine tourism in Gorontalo,"500,000.00",0.547692,123.065654
+31,Ida Lestari,Surabaya,"Indonesian, Javanese, English",Cultural landmarks of East Java,"400,000.00",-7.257472,112.752088
+32,Eko Prasetyo,Malang,"Indonesian, Javanese, English",Volcano tours in East Java,"450,000.00",-7.96662,112.632633
+33,Rini Hartono,Kupang,"Indonesian, Timorese, English",Diverse culture of East Nusa Tenggara,"450,000.00",-10.17721,123.607033
+34,Hasanuddin Syam,Kendari,"Indonesian, Tolaki, English",Southeast Sulawesi's attractions,"300,000.00",-3.977845,122.5149
+35,Fajar Aditya,Jayapura,"Indonesian, Papuan, English",Unique cultural and natural sites of Papua,"350,000.00",-2.591602,140.668999
+36,Maria Lumongga,Toba Samosir,"Indonesian, Batak, English",Natural beauty and cultural heritage of Toba,"500,000.00",2.33349,99.06119
+37,Siti Nuraini,Banjarmasin,"Indonesian, Banjar, English",Waterways of South Kalimantan,"400,000.00",-3.316694,114.590111
+38,Arman Laode,Manado,"Indonesian, English, Manado Malay",Marine life and diving in North Sulawesi,"450,000.00",1.47483,124.842079
+39,Maya Kusuma,Yogyakarta,"Indonesian, Javanese, English",Historical sites of Yogyakarta,"300,000.00",-7.797068,110.370529
+40,Putu Widya,Denpasar,"Indonesian, Balinese, English",Balinese traditions and rituals,"500,000.00",-8.670458,115.212629
+41,Agus Wijaya,Medan,"Indonesian, Batak, English",Natural and cultural attractions of North Sumatra,"250,000.00",3.595196,98.672223
+42,Nurul Hidayat,Pontianak,"Indonesian, Malay, English",Equatorial line in West Kalimantan,"350,000.00",-0.02633,109.342503
+43,Rina Setiawati,Makassar,"Indonesian, Makassarese, English",History and heritage of South Sulawesi,"400,000.00",-5.147665,119.432731
+44,Hadi Pratama,Banda Aceh,"Indonesian, Acehnese, English",Historical and natural attractions of Aceh,"450,000.00",5.54829,95.323753
+45,Farida Hasan,Pekanbaru,"Indonesian, Malay, English",Cultural and historical attractions of Riau,"300,000.00",0.507068,101.447779
+46,Dian Purnama,Balikpapan,"Indonesian, English",Wildlife in East Kalimantan's rainforests,"500,000.00",-1.265386,116.831233
+47,Rahmat Hidayat,Palu,"Indonesian, Kaili, English",Natural beauty and culture of Central Sulawesi,"350,000.00",-0.898813,119.850334
+48,Tri Handoko,Semarang,"Indonesian, Javanese, English",Temples and history of Central Java,"370,000.00",-6.966667,110.416664
+49,Wayan Suryana,Ubud,"Indonesian, Balinese, English",Art scene of Ubud,"400,000.00",-8.5064,115.262479
+50,Linda Susanti,Lampung,"Indonesian, Lampungese, English",Natural parks and wildlife of Lampung,"450,000.00",-5.448721,105.291773
+51,Rizal Fahmi,Balige,"Indonesian, Batak, English",Lake Toba and scenic spots of North Sumatra,"300,000.00",2.33249,99.06519
+52,Andi Syahrul,Gorontalo,"Indonesian, Gorontaloan, English",Diving and marine tourism in Gorontalo,"500,000.00",0.548692,123.066654
+53,Ida Lestari,Surabaya,"Indonesian, Javanese, English",Cultural landmarks of East Java,"300,000.00",-7.256472,112.751088
+54,Eko Prasetyo,Malang,"Indonesian, Javanese, English",Volcano tours in East Java,"350,000.00",-7.96562,112.631633
+55,Rini Hartono,Kupang,"Indonesian, Timorese, English",Diverse culture of East Nusa Tenggara,"400,000.00",-10.17621,123.606033
+56,Hasanuddin Syam,Kendari,"Indonesian, Tolaki, English",Southeast Sulawesi's attractions,"450,000.00",-3.976845,122.5139
+57,Fajar Aditya,Jayapura,"Indonesian, Papuan, English",Unique cultural and natural sites of Papua,"300,000.00",-2.590602,140.667999
+58,Maria Lumongga,Toba Samosir,"Indonesian, Batak, English",Natural beauty and cultural heritage of Toba,"500,000.00",2.33449,99.06219
+59,Yudi Rahman,Palembang,"Indonesian, English",Culture of South Sumatra,"350,000.00",-2.990934,104.756556
+60,Irma Dewi,Padang,"Indonesian, Minangkabau, English",Culinary and cultural heritage of West Sumatra,"250,000.00",-0.947083,100.417181
+61,Asep Gunawan,Bandung,"Indonesian, Sundanese, English",Attractions of West Java,"400,000.00",-6.917464,107.619125
+62,Fitri Ayu,Pekanbaru,"Indonesian, Malay, English",Cultural and historical attractions of Riau,"450,000.00",0.507068,101.447779
+63,Hasan Basri,Samarinda,"Indonesian, English",Nature enthusiast with knowledge of East Kalimantan,"300,000.00",-0.502106,117.153709
+64,Rini Suryani,Banjarmasin,"Indonesian, Banjar, English",Waterways and culture of South Kalimantan,"500,000.00",-3.316694,114.590111
+65,Andi Makmur,Manado,"Indonesian, English, Manado Malay",Marine life and diving in North Sulawesi,"300,000.00",1.47483,124.842079
+66,Dian Kartika,Yogyakarta,"Indonesian, Javanese, English",Historical sites of Yogyakarta,"350,000.00",-7.797068,110.370529
+67,Ketut Arini,Denpasar,"Indonesian, Balinese, English",Balinese traditions and rituals,"400,000.00",-8.670458,115.212629
+68,Bambang Wijaya,Medan,"Indonesian, Batak, English",Natural and cultural attractions of North Sumatra,"450,000.00",3.595196,98.672223
+69,Nurul Huda,Pontianak,"Indonesian, Malay, English",Equatorial line in West Kalimantan,"300,000.00",-0.02633,109.342503
+70,Amalia Rahmawati,Makassar,"Indonesian, Makassarese, English",History and heritage of South Sulawesi,"500,000.00",-5.147665,119.432731
+71,Hendra Pratama,Banda Aceh,"Indonesian, Acehnese, English",Historical and natural touris of Aceh,"250,000.00",5.54829,95.323753
+72,Rahmawati Sari,Balikpapan,"Indonesian, English",Wildlife in East Kalimantan's rainforests,"350,000.00",-1.265386,116.831233
+73,Hendri Suryono,Banda Aceh,"Indonesian, Acehnese, English",Experienced in Aceh's historical and natural tours,"400,000.00",5.548291,95.323754
+74,Ratna Dewi,Bukittinggi,"Indonesian, Minangkabau, English",Expert in West Sumatra's cultural and historical heritage,"450,000.00",-0.30302,100.36808
+75,Andika Saputra,Jambi,"Indonesian, Malay, English",Knowledgeable about Jambi's unique historical sites,"300,000.00",-1.611572,103.615799
+76,Widi Asmara,Tanjung Pandan,"Indonesian, Belitung Malay, English",Specialist in Belitung's beaches and natural beauty,"500,000.00",-2.741051,107.641647
+77,Yuni Susanti,Palangka Raya,"Indonesian, Dayak, English",Expert in Central Kalimantan's rainforests and culture,"600,000.00",-2.207771,113.914062
+78,Ilham Prasetyo,Pontianak,"Indonesian, Malay, English",Guide focusing on West Kalimantan's diverse wildlife,"350,000.00",-0.026331,109.342504
+79,Anwar Syahputra,Tarakan,"Indonesian, Tidung, English",Specialist in North Kalimantan's marine and cultural tourism,"400,000.00",3.300908,117.621391
+80,Rizki Permana,Palu,"Indonesian, Kaili, English",Guide specializing in Central Sulawesi's natural beauty,"450,000.00",-0.898813,119.850334
+81,Lisa Mariana,Gorontalo,"Indonesian, Gorontaloan, English",Expert in Gorontalo's diving and marine tourism,"300,000.00",0.547692,123.065654
+82,Nurdin Hakim,Makassar,"Indonesian, Makassarese, English",Knowledgeable about South Sulawesi's history and culture,"500,000.00",-5.147666,119.432732
+83,Wahyu Santoso,Manado,"Indonesian, Manado Malay, English",Marine life expert and dive guide in North Sulawesi,"600,000.00",1.474831,124.84208
+84,Rika Wulandari,Kendari,"Indonesian, Tolaki, English",Specialist in Southeast Sulawesi's natural and cultural sites,"350,000.00",-3.977845,122.5149
+85,Taufik Hidayat,Kupang,"Indonesian, Timorese, English",Guide with extensive knowledge of East Nusa Tenggara's culture,"400,000.00",-10.17721,123.607033
+86,Ayu Lestari,Labuan Bajo,"Indonesian, English",Specialist in Komodo National Park and surrounding areas,"450,000.00",-8.496405,119.887712
+87,Roni Priyanto,Lombok,"Indonesian, Sasak, English",Guide focusing on Lombok's beaches and local traditions,"300,000.00",-8.586891,116.116031
+88,Ines Damayanti,Mataram,"Indonesian, Sasak, English",Expert in West Nusa Tenggara's cultural heritage,"500,000.00",-8.583069,116.116881
+89,Guntur Hermawan,Denpasar,"Indonesian, Balinese, English",Cultural guide with deep insights into Balinese traditions,"450,000.00",-8.670459,115.21263
+90,Widya Astuti,Ubud,"Indonesian, Balinese, English",Specialist in Ubud's art and cultural scene,"350,000.00",-8.5064,115.262479
+91,Ahmad Ramadhan,Semarang,"Indonesian, Javanese, English",Knowledgeable about Central Java's historical sites,"400,000.00",-6.966667,110.416664
+92,Yulia Hartono,Solo,"Indonesian, Javanese, English",Specialist in Solo's royal heritage and culture,"450,000.00",-7.566667,110.816666
+93,Rudi Susanto,Malang,"Indonesian, Javanese, English",Guide specializing in East Java's volcanic landscapes,"300,000.00",-7.96662,112.632633
+94,Lina Kartika,Surabaya,"Indonesian, Javanese, English",Enthusiastic guide with a love for East Java's landmarks,"500,000.00",-7.257472,112.752088
+95,Bagus Priyono,Cirebon,"Indonesian, Sundanese, English",Expert in West Java's cultural and historical sites,"250,000.00",-6.737705,108.5574
+96,Rahmawati Kusuma,Tasikmalaya,"Indonesian, Sundanese, English",Specialist in West Java's natural attractions and culture,"350,000.00",-7.327906,108.220593
+97,Herman Yusup,Garut,"Indonesian, Sundanese, English",Knowledgeable about West Java's scenic spots and culture,"400,000.00",-7.209417,107.907325
+98,Sinta Amelia,Serang,"Indonesian, Bantenese, English",Guide focusing on Banten's cultural and natural heritage,"450,000.00",-6.12355,106.150589
+99,Budi Sutrisno,Bandar Lampung,"Indonesian, Lampungese, English",Specialist in Lampung's wildlife and natural parks,"300,000.00",-5.42771,105.262089
+100,Rini Apriani,Bengkulu,"Indonesian, Malay, English",Expert in Bengkulu's historical and cultural sites,"500,000.00",-3.792845,102.260764
+101,Arif Wibowo,Medan,"Indonesian, Batak, English",Specialist in North Sumatra's scenic and cultural attractions,"350,000.00",3.595196,98.672223
+102,Rina Mulyani,Padang,"Indonesian, Minangkabau, English",Guide focusing on West Sumatra's unique culinary and cultural sites,"350,000.00",-0.947083,100.417181
+103,Agus Setiawan,Pekanbaru,"Indonesian, Malay, English",Riau's history and natural beauty,"400,000.00",0.507068,101.447779
+104,Wulan Puspita,Palembang,"Indonesian, Palembang Malay, English",South Sumatra's historical and cultural heritage,"450,000.00",-2.990934,104.756556
+105,Devi Handayani,Batam,"Indonesian, Malay, English",Riau Islands' tourism,"300,000.00",1.106846,104.035647
+106,Adi Nugroho,Tanjung Pinang,"Indonesian, Malay, English",Riau Islands' maritime history and culture,"250,000.00",0.916015,104.445915
+107,Yuni Hidayati,Ambon,"Indonesian, Ambonese, English",Maluku's marine and cultural tourism,"300,000.00",-3.695737,128.183105
+108,Ilham Syah,Ternate,"Indonesian, Ternatenese, English",North Maluku's historical sites,"350,000.00",0.793637,127.378197
+109,Ardiansyah Putra,Fakfak,"Indonesian, Papuan, English",West Papua's unique cultural heritage,"400,000.00",-2.928527,132.363281
+110,Nurul Fitri,Sorong,"Indonesian, Papuan, English",Raja Ampat's diving and natural beauty,"450,000.00",-0.881744,131.261154
+111,Dedi Wahyudi,Merauke,"Indonesian, Marind, English",Papua's diverse cultures,"300,000.00",-8.495491,140.398026
+112,Indra Saputra,Jayapura,"Indonesian, Papuan, English",Papua's scenic and cultural attractions,"500,000.00",-2.591602,140.668999
+113,Ratih Santoso,Manokwari,"Indonesian, Papuan, English",West Papua's natural beauty and cultural sites,"450,000.00",-0.861726,134.062485
+114,Reza Firmansyah,Biak,"Indonesian, Papuan, English",Biak's marine and cultural tourism,"350,000.00",-1.161196,136.048224
+115,Yanti Lestari,Kupang,"Indonesian, Timorese, English",East Nusa Tenggara's diverse attractions,"400,000.00",-10.17721,123.607033
+116,Faisal Ramadhan,Maumere,"Indonesian, Flores, English",Flores' natural and cultural heritage,"450,000.00",-8.61917,122.211609
+117,Windi Permata,Waingapu,"Indonesian, Sumbanese, English",Sumba's unique culture,"300,000.00",-9.660331,120.250969
+118,Sugiarto Priyono,Ende,"Indonesian, Flores, English",East Nusa Tenggara's volcanic landscapes,"500,000.00",-8.843259,121.662857
+119,Hadi Sutanto,Atambua,"Indonesian, Timorese, English",East Nusa Tenggara's cultural and historical sites,"250,000.00",-9.106803,124.892122
+120,Nia Fadilah,Lombok,"Indonesian, Sasak, English",Lombok's unique cultural and natural beauty,"350,000.00",-8.586891,116.116031
+121,Arman Yulianto,Bima,"Indonesian, Bimanese, English",West Nusa Tenggara's scenic and cultural sites,"400,000.00",-8.464217,118.723413
+122,Eka Santika,Dompu,"Indonesian, Bimanese, English",West Nusa Tenggara's culture,"450,000.00",-8.536274,118.491682
+123,Ahmad Yudha,Palembang,"Indonesian, English",Cultural and Culinary Tours,"380,000.00",-2.991934,104.757556
+124,Putri Safira,Padang,"Indonesian, Minangkabau, English",Nature and Adventure Tourism,"430,000.00",-0.948083,100.418181
+125,Anton Widodo,Samarinda,"Indonesian, English",Wildlife and Rainforest Exploration,"360,000.00",-0.502106,117.153709
+126,Dini Fitriana,Banjarmasin,"Indonesian, Banjar, English",River Cruises and Local Traditions,"320,000.00",-3.316694,114.590111
+127,Dwi Prasetyo,Manado,"Indonesian, English, Manado Malay",Volcano Hiking and Cultural Excursions,"410,000.00",1.47483,124.842079
+128,Yanti Rahayu,Yogyakarta,"Indonesian, Javanese, English",Batik Making Workshops and Heritage Tours,"470,000.00",-7.797068,110.370529
+129,Made Putra,Denpasar,"Indonesian, Balinese, English",Temple Tours and Balinese Culture Experiences,"290,000.00",-8.670458,115.212629
+130,Rudi Santoso,Medan,"Indonesian, Batak, English",Highland Tours and Ethnic Villages Exploration,"290,000.00",3.595196,98.672223
+131,Maya Anggraeni,Pontianak,"Indonesian, Malay, English",Day Cruises along Kalimantan's Rivers,"430,000.00",-0.02633,109.342503
+132,Hadi Setiawan,Makassar,"Indonesian, Makassarese, English",Seafood Culinary Journeys and Historical Insights,"380,000.00",-5.147665,119.432731
+133,Sinta Pratiwi,Banda Aceh,"Indonesian, Acehnese, English",Tsunami Memorial and Historical Walks,"420,000.00",5.54829,95.323753
+134,Tri Wahyuni,Pekanbaru,"Indonesian, Malay, English",Cultural Heritage Walks and Local Festivals,"270,000.00",0.507068,101.447779
+135,Kurnia Wijaya,Balikpapan,"Indonesian, English",Rainforest Treks and Wildlife Photography,"310,000.00",-1.265386,116.831233
+136,Dian Cahyani,Palu,"Indonesian, Kaili, English",Central Sulawesi's Nature Trails and Culture,"420,000.00",-0.898813,119.850334
+137,Bambang Prasetyo,Semarang,"Indonesian, Javanese, English",Dutch Colonial History Tours and Culinary Delights,"360,000.00",-6.966667,110.416664
+138,Kadek Widiastuti,Ubud,"Indonesian, Balinese, English",Traditional Dance Performances and Craft Workshops,"450,000.00",-8.5064,115.262479
+139,Dini Cahyani,Lampung,"Indonesian, Lampungese, English",Wildlife Safaris and Conservation Initiatives,"370,000.00",-5.448721,105.291773
+140,Akbar Saputra,Balige,"Indonesian, Batak, English",Lake Toba Cultural Immersion and Scenic Tours,"330,000.00",2.33249,99.06519
+141,Yuli Susanto,Gorontalo,"Indonesian, Gorontaloan, English",Coral Reefs Exploration and Underwater Adventures,"480,000.00",0.548692,123.066654
+142,Indah Permata,Surabaya,"Indonesian, Javanese, English",Urban Heritage Walks and Museum Tours,"380,000.00",-7.256472,112.751088
+143,Hadi Nugroho,Malang,"Indonesian, Javanese, English",Bromo Sunrise Tours and Adventure Activities,"430,000.00",-7.96562,112.631633
+144,Nina Lestari,Kupang,"Indonesian, Timorese, English",Traditional Music and Dance Experiences,"430,000.00",-10.17621,123.606033
+145,Dedy Pranata,Kendari,"Indonesian, Tolaki, English",Coastal Treks and Marine Conservation,"290,000.00",-3.976845,122.5139
+146,Yudha Pratama,Jayapura,"Indonesian, Papuan, English",Tribal Villages Discovery and Rainforest Expeditions,"330,000.00",-2.590602,140.667999
+147,Rina Lumongga,Toba Samosir,"Indonesian, Batak, English",Toba Lake Cruises and Cultural Festivals,"470,000.00",2.33449,99.06219
+148,Agung Prabowo,Mataram,"Indonesian, Sasak, English",Lombok's Beaches and Traditional Villages,"350,000.00",-8.583069,116.116881
+149,Nia Susanti,Sorong,"Indonesian, English",Raja Ampat Diving and Bird Watching,"480,000.00",-0.881744,131.261154
+150,Andika Nugroho,Singkawang,"Indonesian, Chinese, English",Chinese Heritage Tours in West Kalimantan,"320,000.00",0.908484,109.006706
+151,Maya Wardani,Jambi,"Indonesian, Malay, English",Jambi's Cultural Sites and Natural Reserves,"390,000.00",-1.611572,103.615799
+152,Arifin Suryadi,Tarakan,"Indonesian, English",Oil City Exploration and Wildlife Spotting,"300,000.00",3.300908,117.621391
+153,Ayu Kartika,Semarang,"Indonesian, Javanese, English",Semarang's Colonial Heritage and Food Trails,"410,000.00",-6.967667,110.417664
+154,Irfan Prasetyo,Batam,"Indonesian, English, Mandarin",Batam Island Escapes and Duty-Free Shopping,"430,000.00",1.106846,104.035647
+155,Santi Wulandari,Bengkulu,"Indonesian, English",Bengkulu's History and Natural Wonders,"370,000.00",-3.792845,102.260764
+156,Dharma Widodo,Balangan,"Indonesian, English, Balinese",Surfing Spots and Balangan's Hidden Gems,"480,000.00",-3.430862,115.442927
+157,Tri Utomo,Mojokerto,"Indonesian, Javanese, English",Mojokerto's Archaeological Sites and Cuisine,"350,000.00",-7.470475,112.440584
+158,Indra Prasetyo,Ternate,"Indonesian, English",Spice Islands Heritage and Volcano Exploration,"450,000.00",0.793637,127.378197
+159,Putri Kartika,Palangkaraya,"Indonesian, Dayak, English",Dayak Tribes and Kalimantan's River Adventures,"400,000.00",-2.207771,113.914062
+160,Siti Nurhasanah,Cirebon,"Indonesian, Sundanese, English",Cirebon's Palaces and Traditional Crafts,"330,000.00",-6.737705,108.5574
+161,Aditya Nugroho,Bangka Belitung,"Indonesian, Chinese, English",Tin Mining History and Island Hopping,"420,000.00",-2.741051,107.641647
+162,Eka Saputri,Puncak,"Indonesian, Sundanese, English",Puncak's Tea Plantations and Mountain Trails,"380,000.00",-6.840732,106.964196
+163,Yoga Pramono,Pangkal Pinang,"Indonesian, English",Pangkal Pinang's Seafood Delights and Markets,"310,000.00",-2.129342,106.113312
+164,Maya Wijaya,Sorong,"Indonesian, English, Papuan",Papuan Culture and Rainforest Expeditions,"470,000.00",-0.882744,131.262154
+165,Ryan Purnama,Purwokerto,"Indonesian, Javanese, English",Baturaden's Waterfalls and Hot Springs,"360,000.00",-7.421356,109.234062
+166,Ari Kusuma,Bukittinggi,"Indonesian, Minangkabau, English",Minangkabau Culture and Ngarai Sianok,"400,000.00",-0.30302,100.36808
+167,Rini Susilo,Cilacap,"Indonesian, Javanese, English",Cilacap's Beaches and Coastal Cuisine,"330,000.00",-7.718283,109.016838
+168,Bambang Santoso,Belitung,"Indonesian, Malay, English",Belitung's Island Hopping and Snorkeling,"440,000.00",-2.741051,107.641647
+169,Dita Setiani,Kediri,"Indonesian, Javanese, English",Kediri's Temples and Cultural Festivals,"390,000.00",-7.816362,112.011606
+170,Hadi Nugraha,Batang,"Indonesian, Javanese, English",Batang's Agriculture and Agro-Tourism,"360,000.00",-7.043233,109.911117
+171,Yulia Sari,Pasuruan,"Indonesian, Javanese, English",Pasuruan's Waterfalls and Forest Treks,"410,000.00",-7.645973,112.907715
+172,Agus Santoso,Karawang,"Indonesian, Sundanese, English",Karawang's Industrial Heritage and Cuisine,"380,000.00",-6.307923,107.310337
+173,Ahmad Firdaus,Pangkalpinang,"Indonesian, English",Belitung's Beaches and Island Hopping,"420,000.00",-2.129342,106.113312
+174,Siti Rahayu,Pekalongan,"Indonesian, Javanese, English",Batik Heritage and Local Handicrafts,"330,000.00",-6.890547,109.675332
+175,Rizky Pratama,Cianjur,"Indonesian, Sundanese, English",Tea Plantations and Mountain Treks,"380,000.00",-6.822992,107.134143
+176,Aditya Wibowo,Palu,"Indonesian, English",Central Sulawesi's Cultural Sites and Nature,"450,000.00",-0.898813,119.850334
+177,Maya Dewi,Madiun,"Indonesian, Javanese, English",Madiun's Agricultural Tourism and Culinary Delights,"360,000.00",-7.629932,111.523218
+178,Irfan Susanto,Tomohon,"Indonesian, Minahasan, English",Highland Adventures and Local Cuisine,"490,000.00",1.314258,124.840962
+179,Novi Anggraeni,Binjai,"Indonesian, Malay, English",Binjai's Cultural Heritage and Culinary Experiences,"310,000.00",3.605812,98.485717
+180,Denny Kusuma,Palopo,"Indonesian, Bugis, English",Bugis Traditions and Coastal Explorations,"400,000.00",-3.089603,120.068925
+181,Widi Kurniawan,Tarakan,"Indonesian, English, Mandarin",Tarakan's Oil City Tours and Local Markets,"320,000.00",3.300908,117.621391
+182,Ariningsih Putri,Pamekasan,"Indonesian, Madurese, English",Madurese Culture and Island Adventures,"370,000.00",-7.156495,113.476486
+183,Yanto Prabowo,Sidoarjo,"Indonesian, Javanese, English",Sidoarjo's Culinary Scene and Mud Volcano Excursions,"390,000.00",-7.447472,112.718362
+184,Putri Handayani,Tanjung Pinang,"Indonesian, Malay, English",Tanjung Pinang's Cultural Sites and Seafood Delights,"430,000.00",0.916015,104.445915
+185,Bayu Santoso,Solok,"Indonesian, Minangkabau, English",Minangkabau Heritage and Mountain Exploration,"440,000.00",-0.790361,100.663559
+186,Siska Wijaya,Ternate,"Indonesian, English",Ternate's Spice History and Island Hopping,"470,000.00",0.793637,127.378197
+187,Rina Astuti,Singkawang,"Indonesian, Chinese, English",Chinese Temples and Culinary Tours,"320,000.00",0.908484,109.006706
+188,Bambang Prayoga,Parepare,"Indonesian, Bugis, English",Parepare's Seafood Delights and Coastal Attractions,"400,000.00",-4.015162,119.623068
+189,Maya Hartati,Singaraja,"Indonesian, Balinese, English",Singaraja's Temples and Northern Bali's Natural Wonders,"460,000.00",-8.112509,115.088111
+190,Dian Saputri,Pasuruan,"Indonesian, Javanese, English",Pasuruan's Waterfalls and Agro-Tourism,"370,000.00",-7.646973,112.906715
+191,Rudi Santoso,Serang,"Indonesian, Sundanese, English",Serang's Historical Sites and Local Cuisine,"380,000.00",-6.12355,106.150589
+192,Widya Pratiwi,Majene,"Indonesian, Mandar, English",Majene's Coastal Beauty and Traditional Villages,"420,000.00",-3.540214,118.970765
+193,Aditya Setiawan,Bontang,"Indonesian, English",Bontang's Oil and Gas Industry Tours,"340,000.00",0.126877,117.470314
+194,Rini Susanti,Karawang,"Indonesian, Sundanese, English",Karawang's Industrial Heritage and Local Markets,"330,000.00",-6.308923,107.311337
+195,Yudha Prasetyo,Blitar,"Indonesian, Javanese, English",Blitar's Historical Landmarks and Cultural Festivals,"380,000.00",-8.098129,112.168011
+196,Maya Widiastuti,Tegal,"Indonesian, Javanese, English",Tegal's Waterfront and Culinary Experiences,"400,000.00",-6.869596,109.140607
+197,Siti Maulida,Manokwari,"Indonesian, Papuan, English",Manokwari's Nature Reserves and Indigenous Culture,"450,000.00",-0.861726,134.062485
+198,Dita Setiani,Tarakan,"Indonesian, English",Tarakan's Oil City History and Nature Excursions,"380,000.00",3.301908,117.622391
+199,Hadi Nugraha,Tanjung Pinang,"Indonesian, Malay, English",Tanjung Pinang's Seafood Markets and Island Tours,"400,000.00",0.917015,104.446915
+200,Yulia Sari,Sorong,"Indonesian, English, Papuan",Sorong's Coral Reefs and Indigenous Communities,"470,000.00",-0.881744,131.261154
+201,Jefri Irawan,Halmahera,"Indonesian, English","Nature Tours, Bird Watching","500,000.00",0.5647,128.508811
+202,Rizky Maulana,Banten,"Indonesian, English","Cultural Tours, Historical Sites","400,000.00",-6.405817,106.064018
+203,Anita Prasetyo,Bangka,"Indonesian, English","Beach Tours, Snorkeling","450,000.00",-2.741051,107.641647
+204,Agus Santoso,Pangandaran,"Indonesian, English","Surfing, Marine Tours","350,000.00",-7.615067,108.442164
+205,Siti Nurhaliza,Banyuwangi,"Indonesian, English","Volcano Tours, Ijen Crater","500,000.00",-8.218938,114.369083
+206,Ketut Ardana,Kepulauan Gili,"Indonesian, English","Diving, Island Hopping","600,000.00",-8.353881,116.038325
+207,Zulkifli Ahmad,Sabang,"Indonesian, English","Diving, Historical Sites","550,000.00",5.893274,95.321753
+208,Yohanes Mauk,Rote Ndao,"Indonesian, English","Surfing, Cultural Tours","400,000.00",-10.727151,123.084267
+209,Maria Gomez,Flores,"Indonesian, English","Komodo National Park, Cultural Tours","700,000.00",-8.651466,121.07937
+210,Budi Santosa,Alor,"Indonesian, English","Diving, Marine Tours","600,000.00",-8.27197,124.46489
+211,Agustinus Beka,Manggarai,"Indonesian, English","Cultural Tours, Traditional Villages","500,000.00",-8.593397,120.53388
+212,Faisal Amir,Anambas,"Indonesian, English","Island Hopping, Snorkeling","550,000.00",3.126786,106.573557
+213,Andi Susanto,Probolinggo,"Indonesian, English","Bromo Tour, Cultural Experiences","500,000.00",-7.754373,113.215935
+214,Rina Kurniawati,Berau,Indonesian,"Derawan Islands, Diving","600,000.00",2.532615,117.126617
+215,Markus Salamor,Maluku Tenggara,"Indonesian, Ambonese","Cultural Heritage, Nature Trails","550,000.00",-6.133363,131.461427
+216,Jefri Hendra,Sumba Barat,"Indonesian, English","Sumba Beaches, Traditional Villages","450,000.00",-9.658049,119.356214
+217,Budi Haryanto,Selayar,"Indonesian, English","Diving, Historical Sites","500,000.00",-6.410239,120.542123
+218,Fitri Malatu,Maluku,"Indonesian, Ambonese","Island Tours, Snorkeling","650,000.00",-3.238462,130.145273
+219,Taufik Rahman,Tojo Una-Una,"Indonesian, English","Bajo Culture, Nature Expeditions","600,000.00",-1.330776,121.774017
+220,Siti Nurbaya,Agam,Indonesian,"Cultural Tours, Nature Hiking","400,000.00",-0.314228,100.360107
+221,Dian Pratiwi,Jepara,"Indonesian, Javanese","Karimunjawa Islands, Cultural Sites","550,000.00",-6.586397,110.678352
+222,Lisa Pattipilohy,Maluku Tengah,"Indonesian, Ambonese","Beach Tours, Cultural Experiences","500,000.00",-3.238462,130.145273
+223,Arif Tandi,Toraja,"Indonesian, Torajan","Traditional Villages, Trekking","600,000.00",-2.967718,119.897798
+224,Daniel Pangemanan,Minahasa,"Indonesian, Manadonese","Volcano Tours, Cultural Heritage","550,000.00",1.483198,124.84848
+225,Robert Waromi,Papua,"Indonesian, Papuan","Cultural Tours, Nature Adventures","700,000.00",-4.269928,138.080353
+226,Agus Sutopo,Probolinggo,"Indonesian, English",Mountain trekking,"500,000.00",-7.754373,113.215935
+227,Arman Hidayat,Berau,"Indonesian, English",Cave exploration,"550,000.00",2.532615,117.126617
+228,Siti Rahma,Maluku Tenggara,"Indonesian, Dutch",Cultural tours,"600,000.00",-6.133363,131.461427
+229,Dani Pranata,Sumba Barat,"Indonesian, English",Surfing,"650,000.00",-9.658049,119.356214
+230,Rina Mahendra,Selayar,"Indonesian, English",Snorkeling,"450,000.00",-6.410239,120.542123
+231,Muhammad Yusuf,Maluku,"Indonesian, Dutch",Historical tours,"500,000.00",-3.238462,130.145273
+232,Hendri Gunawan,Tojo Una-Una,"Indonesian, English",Volcano hiking,"700,000.00",-1.330776,121.774017
+233,Ratna Dewi,Agam,"Indonesian, Minangkabau",Traditional food tours,"400,000.00",-0.314228,100.360107
+234,Agus Wijaya,Jepara,"Indonesian, Javanese",Wood carving workshops,"550,000.00",-6.586397,110.678352
+235,Sri Wulandari,Maluku Tengah,"Indonesian, English",Island hopping,"600,000.00",-3.238462,130.145273
+236,Taufik Hidayat,Toraja,"Indonesian, English",Cultural heritage,"650,000.00",-2.967718,119.897798
+237,Budi Santoso,Minahasa,"Indonesian, English",Volcano tours,"700,000.00",1.483198,124.84848
+238,Joko Purwanto,Papua,"Indonesian, English",Wildlife tours,"750,000.00",-4.269928,138.080353
+239,Sri Utami,Sintang,"Indonesian, Dayak",Forest tours,"500,000.00",0.083108,111.487671
+240,Budi Prasetyo,Surakarta,"Indonesian, Javanese",Cultural and historical tours,"450,000.00",-7.561501,110.825446
+241,Yohanes Rudi,Raja Ampat,"Indonesian, English",Diving and snorkeling,"700,000.00",-0.866667,130.833333
+242,Dwi Astuti,Pematangsiantar,"Indonesian, Batak",Lake tours,"500,000.00",2.959681,99.068637
+243,Ali Akbar,Bintan,"Indonesian, English",Beach and island hopping,"600,000.00",1.22385,104.47233
+244,Rahmat Darmawan,Nias,"Indonesian, Nias",Surfing and cultural tours,"650,000.00",1.136464,97.557574
+245,Eko Setiawan,Sumba,"Indonesian, English",Traditional villages,"550,000.00",-9.501918,119.607862
+246,Siti Nurjanah,Siak,"Indonesian, Malay",Historical palace tours,"450,000.00",0.781355,102.274841
+247,Andi Pratama,Wakatobi,"Indonesian, English",Diving and marine life,"700,000.00",-5.358378,123.613282
